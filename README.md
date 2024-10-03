@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react,next,express,node**
 
-- 📫 How to reach me **mobin.kashif112233**
+- 📫 How to reach me **mobin.kashif112233@gmail.com**
 
 - ⚡ Fun fact **“I cache great memories, so I can retrieve them faster—just like in-memory caching in Node.js!**
 
