@@ -1,27 +1,136 @@
-<h1 align="center">Hi 👋, I'm Muhammad Mobin Kashif</h1>
-<h3 align="center">A passionate full stack web developer</h3>
+# 👋 Hey, I'm Muhammad Mobin Kashif
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmobin16&label=Profile%20views&color=0e75b6&style=flat" alt="mmobin16" /> </p>
+### Software Engineer · Full-Stack Developer · SAP Integration Consultant
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmobin16" alt="mmobin16" /></a> </p>
+I build software that makes businesses work smarter.
 
-- 💬 Ask me about **react,next,express,node**
+From enterprise applications and SAP integrations to modern web apps, desktop software, and automation — I enjoy turning complex problems into practical, reliable solutions.
 
-- 📫 How to reach me **mobin.kashif112233@gmail.com**
-
-- ⚡ Fun fact **“I cache great memories, so I can retrieve them faster—just like in-memory caching in Node.js!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/mohammad mobin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammad mobin" height="30" width="40" /></a>
-<a href="https://instagram.com/mmobin42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmobin42" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+software+that+solves+real+problems;Connecting+business+with+technology;Automating+the+boring+stuff;Debugging+with+questionable+amounts+of+coffee" alt="Typing animation" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/mmobin16">
+    <img src="https://komarev.com/ghpvc/?username=mmobin16&style=flat-square&color=0d1117&label=PROFILE+VIEWS" alt="Profile views" />
+  </a>
+  <a href="https://github.com/mmobin16?tab=followers">
+    <img src="https://img.shields.io/github/followers/mmobin16?style=flat-square&color=0d1117&label=FOLLOWERS" alt="GitHub followers" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmobin16&show_icons=true&locale=en&layout=compact" alt="mmobin16" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmobin16&show_icons=true&locale=en" alt="mmobin16" /></p>
+## `$ whoami`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmobin16&" alt="mmobin16" /></p>
+- 🏢 Building business applications and SAP-integrated solutions at **Alpha Labs**
+- 💻 Developing with **C#, .NET, SQL Server, React, Next.js, and Node.js**
+- 🔗 Working with **SAP Business One, DI API, and REST API integrations**
+- 🤖 Exploring **AI agents, workflow automation, and intelligent applications**
+- 🎯 Focused on writing maintainable code and building software people actually need
+- 📬 **Email:** [mobin.kashif112233@gmail.com](mailto:mobin.kashif112233@gmail.com)
+
+## ⚙️ What I Do
+
+<details open>
+<summary><b>🏢 Enterprise Software & SAP</b></summary>
+<br />
+
+Building business applications that integrate with enterprise systems.
+
+- SAP Business One integrations using DI API
+- ERP and CRM application development
+- Inventory, purchasing, and quality-management workflows
+- SQL Server queries, reporting, and business-process automation
+
+</details>
+
+<details>
+<summary><b>🌐 Full-Stack Development</b></summary>
+<br />
+
+Building web applications from the interface to the database.
+
+- React, Next.js, JavaScript, and TypeScript
+- Node.js, Express, C#, and .NET
+- REST APIs, authentication, and third-party integrations
+- Responsive interfaces and practical user experiences
+
+</details>
+
+<details>
+<summary><b>🖥️ Desktop, Mobile & Automation</b></summary>
+<br />
+
+- Windows desktop applications with C# and WinForms
+- Mobile applications and backend integrations
+- API-driven business tools
+- Workflow automation and AI-assisted solutions
+
+</details>
+
+## 🧰 Tech Stack
+
+**Languages**
+
+`C#` · `JavaScript` · `TypeScript` · `SQL` · `Python` · `Java`
+
+**Frontend**
+
+`React` · `Next.js` · `Angular` · `HTML` · `CSS` · `Tailwind CSS` · `Bootstrap`
+
+**Backend & APIs**
+
+`.NET` · `ASP.NET` · `Node.js` · `Express.js` · `REST APIs` · `SAP DI API`
+
+**Databases**
+
+`Microsoft SQL Server` · `MySQL` · `MongoDB` · `PostgreSQL` · `SQLite`
+
+**Tools & Platforms**
+
+`Git` · `GitHub` · `Docker` · `Postman` · `Linux` · `Nginx` · `Firebase`
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmobin16&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmobin16&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mmobin16&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mmobin16">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmobin16&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+  </a>
+</p>
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:mobin.kashif112233@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-Say%20Hello-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+  <a href="https://github.com/mmobin16">
+    <img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  </a>
+  <!-- Replace the URL below with your actual LinkedIn profile -->
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"It works on my machine" is not a deployment strategy. 😅</i>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting. Build something useful. Make it better. Repeat. 🚀</b>
+</p>
